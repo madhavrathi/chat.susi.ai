@@ -6,6 +6,7 @@ import Dialog from 'material-ui/Dialog';
 import FlatButton from 'material-ui/FlatButton';
 import './ForgotPassword.css';
 import $ from 'jquery';
+
 import PropTypes from 'prop-types'
 import SettingStore from '../../../stores/SettingStore';
 

@@ -172,7 +172,6 @@ class Login extends Component {
 		const hidden = this.state.checked ? serverURL : '';
 
 		const styles = {
-			'width': '100%',
 			'textAlign': 'center',
 			'padding': '10px'
 		}

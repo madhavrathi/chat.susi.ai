@@ -551,10 +551,10 @@ header {
 
 @media only screen and (max-width: 480px){
    .github_logo img{
-        height: 60px;
+        height: 40px;
     }
     .opensource img{
-        height: 60px;
+        height: 40px;
     }
     .opensource-logos{
         width: 170px;
